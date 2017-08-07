@@ -1,3 +1,7 @@
+> Preisach模型
+> 2017-08-06
+> Cheney
+# 代码
 close all;clear all;clc;% clear the workplace
 [a,b]=meshgrid(-0.5:1/N:0.5,0.5:-1/N:-0.5);
 x=-0.5:0.01:0.5;
